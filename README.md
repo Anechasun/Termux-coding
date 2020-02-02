@@ -1,8 +1,8 @@
-# Termux Coder
+# Termux Coding
 
-## Install Runtime
+## Install Package
 ```bash
-$ pkg install nodejs-lts python golang build-essential
+$ pkg update && pkg upgrade && pkg install git vim nodejs-lts python golang build-essential
 ```
 ## Install Vim
 ```bash
