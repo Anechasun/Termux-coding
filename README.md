@@ -1,10 +1,11 @@
 # Termux Coding
 
-## Install Package
+1. Install package
 ```bash
-$ pkg update && pkg upgrade && pkg install git vim nodejs-lts python golang build-essential
+$ pkg update && pkg upgrade && pkg install git vim procps proot​ nodejs-lts python golang build-essential cmake patch curl
 ```
-## Install Vim
+2. Restart Termux
+3. Setup proot
 ```bash
-$ pkg install vim
+$ cd ~ && curl -fsSL https://raw.githubusercontent.com/theimpostor/termux-vim-ycm/master/bashrc.patch | patch
 ```
