@@ -1,5 +1,7 @@
 # Termux Coding
 
+Coding on android with Node.js, Python, Go and C/C++ 
+
 ## Install ohmyzsh
 
 see repo [termux-ohmyzsh](https://github.com/Cabbagec/termux-ohmyzsh)​
