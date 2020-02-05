@@ -3,6 +3,9 @@
 
 Coding on android with Node.js, Python, Go and C/C++ 
 
+![screenshot1](https://raw.githubusercontent.com/Anechasun/Termux-coding/master/.github/Screenshot-1.jpg)​
+![screenshot3](https://raw.githubusercontent.com/Anechasun/Termux-coding/master/.github/Screenshot-3.jpg)​
+
 ## Install ohmyzsh
 
 see repo [termux-ohmyzsh](https://github.com/Cabbagec/termux-ohmyzsh)​
