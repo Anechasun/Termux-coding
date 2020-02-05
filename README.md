@@ -1,5 +1,6 @@
 # Termux Coding
 
+
 Coding on android with Node.js, Python, Go and C/C++ 
 
 ## Install ohmyzsh
@@ -18,3 +19,5 @@ pkg update && pkg upgrade && pkg install procps proot vim-python git nodejs gola
 ```
 
 see repo [termux-vim-ycm](https://github.com/theimpostor/termux-vim-ycm)
+
+see repo [onedark.vim](https://github.com/joshdick/onedark.vim/blob/master/README.md​)​
